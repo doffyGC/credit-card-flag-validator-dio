@@ -17,6 +17,19 @@ python.exe -B index.py <Credit_Card_Number>
 ```
 ---
 
+## ✅ Supported Brands
+
+- Visa
+- MasterCard
+- American Express
+- Discover
+- Diners Club
+- EnRoute
+- Voyager
+- Hipercard
+- JCB
+- Aura
+
 # 🧾 Validador de Bandeiras de Cartão de Crédito [PT-BR]
 
 ## 📋 Visão Geral
@@ -35,3 +48,16 @@ cd src
 python.exe -B index.py <Numero_Cartão_Credito>
 ```
 ---
+
+## ✅ Bandeiras Suportadas
+
+- Visa
+- MasterCard
+- American Express
+- Discover
+- Diners Club
+- EnRoute
+- Voyager
+- Hipercard
+- JCB
+- Aura
