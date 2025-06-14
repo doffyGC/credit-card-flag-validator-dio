@@ -32,6 +32,6 @@ cd src
 
 ### 2. Execute o código abaixo no terminal
 ```bash
-python.exe -B index.py <Credit_Card_Number>
+python.exe -B index.py <Numero_Cartão_Credito>
 ```
 ---
